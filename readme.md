@@ -2,13 +2,13 @@
 
 ### Passos para conseguir rodar o projeto:
 
-#### 2) Clone este projeto com o comando:
+#### 1) Clone este projeto com o comando:
 
 ````js
   git clone https://github.com/Tiago1106/e-commerce
 ````
 
-#### 3) Rode o comando dentro do peojeto para instalar todas as dependencias:
+#### 2) Rode o comando dentro do peojeto para instalar todas as dependencias:
 
 ````js
   yarn install
@@ -18,7 +18,7 @@ ou
   npm install
 ````
 
-#### 6) Para iniciar o projeto rode o comando:
+#### 3) Para iniciar o projeto rode o comando:
 
 ````js
   yarn start
